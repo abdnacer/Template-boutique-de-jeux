@@ -151,3 +151,15 @@
 
 }
 
+@media print {
+  .step2,
+  .step3{
+    display: none;
+  }
+
+  .menu{
+    margin: 15px;
+  }
+
+}
+
